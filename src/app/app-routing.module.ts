@@ -25,15 +25,15 @@ const routes: Routes = [
     component: ComposerListComponent
   },
   {
-    path: '/composer-list',
+    path: 'composer-list',
     component: ComposerListComponent
   },
   {
-    path: '/about',
+    path: 'about',
     component: AboutComponent
   },
   {
-    path: '/contact',
+    path: 'contact',
     component: ContactComponent
   },
   {
