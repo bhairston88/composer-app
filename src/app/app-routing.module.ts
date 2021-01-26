@@ -37,7 +37,7 @@ const routes: Routes = [
     component: ContactComponent
   },
   {
-    path: '/composer-details/:composerId',
+    path: 'composer-details/:composerId',
     component: ComposerDetailsComponent
   }
 ];
